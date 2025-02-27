@@ -1,0 +1,22 @@
+{
+  "name": "fitness-tracking-app",
+  "version": "1.0.0",
+  "description": "A personal app for tracking fitness improvement and data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ManuelCh02/fitness-tracking-app.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "ManuCh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ManuelCh02/fitness-tracking-app/issues"
+  },
+  "homepage": "https://github.com/ManuelCh02/fitness-tracking-app#readme"
+}
